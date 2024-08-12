@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Capy-the-capybara
-- 👀 I’m interested in blockchain and AI
-- 🌱 I’m currently learning about advancing blockchain and AI
-- 💞️ I’m looking to collaborate on blockchains and AI models
+- 👀 I’m interested in blockchain, AI, virtual, and augmented reality
+- 🌱 I’m currently learning about everything I can
+- 💞️ I’m looking to collaborate on blockchains, AI models, AR, and VR projects
 - 📫 How to reach me ...
-- ⚡ Fun fact: Started and sold a company before, strong professional background in accountancy. 
+- ⚡ Fun fact: Started and sold a media company before, strong professional background in accountancy and corporate finance.
 
 <!---
 Capy-the-capybara/Capy-the-capybara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
